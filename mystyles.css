@@ -1,0 +1,33 @@
+@charset "ISO-8859-1";
+
+#title {
+	text-align: center;
+}
+
+#buttonChange {
+	float: right;
+}
+
+#bestword {
+	clear: left;
+	text-align: center;
+}
+
+.img {
+	margin: 10px;
+	width:250px;
+	float: left;
+	text-align: center;
+}
+
+.context {
+	margin:1.5%;
+	width:98%;
+	text-align: left;
+}
+
+/*format black color for the link*/
+a{
+	color: black;
+}
+
